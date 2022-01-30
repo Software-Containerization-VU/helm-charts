@@ -9,6 +9,6 @@ entries:
     name: inventory-app-chart
     type: application
     urls:
-    - https://github.com/Software-Containerization-VU/helm-charts/inventory-app-chart-0.1.0.tgz
+    - https://software-containerization-vu.github.io/helm-charts/inventory-app-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-01-30T14:28:50.723171741+01:00"
