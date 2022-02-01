@@ -3,12 +3,12 @@ entries:
   inventory-app-chart:
   - apiVersion: v2
     appVersion: v1
-    created: "2022-02-01T17:42:55.525371644+01:00"
+    created: "2022-02-01T17:52:54.848331073+01:00"
     description: A Helm chart for Kubernetes
-    digest: 4fd891c4f4c4fbff2680be5063a27cf167aa173e5a2b8209b663fbd13facb671
+    digest: cacb4786cb4694a03924571a52b3c5465eab90066bfc207fac77897ca6e7c43f
     name: inventory-app-chart
     type: application
     urls:
     - https://software-containerization-vu.github.io/helm-charts/inventory-app-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-01T17:42:55.523672619+01:00"
+generated: "2022-02-01T17:52:54.84701461+01:00"
