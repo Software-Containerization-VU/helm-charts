@@ -3,12 +3,12 @@ entries:
   chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-05T18:00:27.538679123+01:00"
+    created: "2022-02-05T18:10:31.81020332+01:00"
     description: A Helm chart for Kubernetes
-    digest: f5da7e6b18e6400259cd342c10a64a84fbe6f37cacce1ecb58021bc4dfc75ba0
+    digest: 55b5290a7c6b3e5ef1a05566dce01eaa066b430dde91081fd4863d1cee6546c4
     name: chart-test
     type: application
     urls:
     - https://software-containerization-vu.github.io/helm-charts/chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-05T18:00:27.536006584+01:00"
+generated: "2022-02-05T18:10:31.808673897+01:00"
